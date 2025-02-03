@@ -1,4 +1,4 @@
-# Install IoT Edge on VM (RedHat 8.x)
+# Lab 01. Install IoT Edge on VM (RedHat 8.x)
 
 ### Update packages
 

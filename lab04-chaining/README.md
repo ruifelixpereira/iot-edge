@@ -1,4 +1,4 @@
-# Tutorial for IoT Edge Chaining
+# Lab 04. IoT Edge Chaining
 
 This tutorial was created from the oficial [documentation](https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-nested-iot-edge?view=iotedge-1.4).
 
@@ -20,7 +20,7 @@ tar -xvf iotedge_config.tar
 
 ## Step 1. Deploy or re-use existing edge hosts
 
-For this exercise we need to IoT Edge hosts. We can deploy 2 VMs, for example using the below template or jsut use existing hosts.
+For this exercise we need two IoT Edge hosts. We can deploy 2 VMs, for example using the below template or jsut use existing hosts.
 
 ### Using this template (creates VMs with public IPs)
 
